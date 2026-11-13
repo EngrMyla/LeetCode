@@ -12,3 +12,15 @@ To me, a software engineer is someone who builds applications. That’s why I st
 This repository contains my solutions as I practice and improve my coding skills.
 
 To anyone who may come across this repo, welcome. Please use my code with a grain of salt — I am still learning.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/EngrMyla/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/EngrMyla/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

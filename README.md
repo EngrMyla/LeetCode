@@ -23,4 +23,8 @@ To anyone who may come across this repo, welcome. Please use my code with a grai
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/EngrMyla/LeetCode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/EngrMyla/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->

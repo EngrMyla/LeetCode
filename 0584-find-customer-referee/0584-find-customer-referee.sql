@@ -2,7 +2,4 @@
 SELECT name
 FROM CUSTOMER
 WHERE referee_id != 2
-UNION ALL
-SELECT name
-FROM CUSTOMER
-WHERE referee_id IS NULL
+OR referee_id IS NULL

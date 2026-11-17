@@ -27,4 +27,5 @@ To anyone who may come across this repo, welcome. Please use my code with a grai
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/EngrMyla/LeetCode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/EngrMyla/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

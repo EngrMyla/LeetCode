@@ -29,4 +29,5 @@ To anyone who may come across this repo, welcome. Please use my code with a grai
 | [0197-rising-temperature](https://github.com/EngrMyla/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/EngrMyla/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/EngrMyla/LeetCode/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/EngrMyla/LeetCode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->

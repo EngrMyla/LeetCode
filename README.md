@@ -31,4 +31,5 @@ To anyone who may come across this repo, welcome. Please use my code with a grai
 | [0595-big-countries](https://github.com/EngrMyla/LeetCode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/EngrMyla/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/EngrMyla/LeetCode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/EngrMyla/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
